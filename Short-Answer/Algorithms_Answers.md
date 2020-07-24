@@ -2,7 +2,7 @@
 
 ## Exercise I
 
-a) The while loop executes until a greater than or equal to n cubed, however n squared is added to it each iteration and so the loop will only run n times --  O(n) 
+a) The while loop executes until a is greater than or equal to n cubed, however n squared is added to it each iteration and so the loop will only run n times --  O(n) 
 
 
 b) The first of the two loops is a for loop in the range of n which will execute in O(n) time. The second loop is a while loop which is constantly
