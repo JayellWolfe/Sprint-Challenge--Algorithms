@@ -13,16 +13,16 @@ c) This function is recursive, however it only calls iteself once, which leaves 
 
 ## Exercise II
 
-# Egg Case
-# Starting on the ground  floor
-# Find the middle floor between the start point and the top floor (n)
-# run until floor f:
-    # drop the egg
-    # if the egg breaks:
-        # move to the middle point between current location and the ground
-    # otherwise:
-        # move to the middle point between current location and the top floor
-# return floor f
-# floor f is the highest floor where the egg doesn't break
+Egg Case
+ -- Starting on the ground  floor
+ -- Find the middle floor between the start point and the top floor (n)
+ --run until floor f:
+    -- drop the egg
+    -- if the egg breaks:
+        - then move to the middle point between current location and the ground
+    -- else:
+        -- move to the middle point between current location and the top floor
+ -- return floor f
+ -- floor f is the highest floor where the egg doesn't break
 
-#giving a O(log(n)) time 
+ -- giving a O(log(n)) time 
